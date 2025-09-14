@@ -50,6 +50,63 @@ An end-to-end machine learning project that analyzes and predicts credit risk us
 - **Tools:** Jupyter Notebook, Power BI Desktop
 
 ---
+german-credit-risk-analysis/
+├── data/
+│ └── german_credit_data.csv
+├── notebooks/
+│ ├── 01_eda.ipynb
+│ └── 02_modeling.ipynb
+├── visuals/
+│ └── credit_risk_dashboard.pbix
+├── src/
+│ └── utils.py
+├── README.md
+└── requirements.txt
+
+
+
+---
+
+## 📈 Results
+
+- Best model achieved over **85% accuracy**.
+- High interpretability with feature importance visualizations.
+- Dashboard provides **real-time filtering and drill-down** into customer segments.
+
+---
+
+## 🚀 Future Enhancements
+
+- Deploy model as a REST API using Flask/FastAPI.
+- Integrate SHAP for explainability.
+- Set up scheduled retraining and monitoring pipeline.
+
+---
+
+## 📎 Resources
+
+- 📁 [Original Dataset - UCI Repository](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
+- 📊 Power BI Dashboard (optional: upload & share link if public)
+- 📘 Documentation (optional)
+
+---
+
+## 🙌 Acknowledgements
+
+- UCI Machine Learning Repository for the dataset.
+- Open-source libraries that made this project possible.
+
+---
+
+## 📬 Contact
+
+For questions or collaborations:  
+**M IJAZ HUSSNAIN**  
+mijazhussnain83@gmail.com  
+
+---
+
+⭐ If you found this project helpful, consider giving it a star!
 
 ## 📂 Project Structure
 
