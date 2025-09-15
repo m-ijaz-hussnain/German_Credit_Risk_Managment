@@ -72,7 +72,7 @@ An end-to-end machine learning project that analyzes and predicts credit risk us
 ## 📎 Resources
 
 📊 Power BI Dashboard:
-![Dashboard Screenshot](German Cradit Card.jpeg)
+![Dashboard Screenshot](german_cradit_card.jpeg)
 
 
 ---
