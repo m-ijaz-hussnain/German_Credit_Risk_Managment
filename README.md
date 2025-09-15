@@ -50,20 +50,6 @@ An end-to-end machine learning project that analyzes and predicts credit risk us
 - **Tools:** Jupyter Notebook, Power BI Desktop
 
 ---
-german-credit-risk-analysis/
-├── data/
-│ └── german_credit_data.csv
-├── notebooks/
-│ ├── 01_eda.ipynb
-│ └── 02_modeling.ipynb
-├── visuals/
-│ └── credit_risk_dashboard.pbix
-├── src/
-│ └── utils.py
-├── README.md
-└── requirements.txt
-
-
 
 ---
 
@@ -85,9 +71,9 @@ german-credit-risk-analysis/
 
 ## 📎 Resources
 
-- 📁 [Original Dataset - UCI Repository](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
-- 📊 Power BI Dashboard (optional: upload & share link if public)
-- 📘 Documentation (optional)
+📊 Power BI Dashboard:
+![Dashboard Screenshot](German Cradit Card.jpeg)
+
 
 ---
 
