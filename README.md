@@ -71,9 +71,9 @@ An end-to-end machine learning project that analyzes and predicts credit risk us
 
 ## 📎 Resources
 
-- 📁 [Original Dataset - UCI Repository](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
-- 📊 Power BI Dashboard (optional: upload & share link if public)
-- 📘 Documentation (optional)
+📊 Power BI Dashboard:
+![Dashboard Screenshot](German Cradit Card.jpeg)
+
 
 ---
 
